@@ -1,0 +1,16 @@
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.toast {
+  background-color: cadetblue;
+  border-radius: 1em;
+  padding: 0.5em 1em;
+  position: absolute;
+  top: 1em;
+  margin: 0 auto;
+}
