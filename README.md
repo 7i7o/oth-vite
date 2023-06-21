@@ -21,3 +21,5 @@ To run the server:
 or
 
 `yarn dev`
+
+and open `http://localhost:5173/`
